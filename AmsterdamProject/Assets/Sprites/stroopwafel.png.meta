@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 14235c08dda182d409635ada3b211e9b
+guid: 2322bb012b562ad48b3ac4c5ddde0ac0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8943634123154179089
-    second: AmsterDAmQuest_0
+      213: 2077387030333535425
+    second: stroopwafel_0
+  - first:
+      213: 1633436422466992787
+    second: stroopwafel_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AmsterDAmQuest_0
+      name: stroopwafel_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 5
+        y: 93
+        width: 52
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: feb35508624d1e380800000000000000
-      internalID: -8943634123154179089
+      spriteID: 1c4b8046f7c54dc10800000000000000
+      internalID: 2077387030333535425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroopwafel_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 488
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a745c95c12ba610800000000000000
+      internalID: 1633436422466992787
       vertices: []
       indices: 
       edges: []
@@ -134,8 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      AmsterDAmQuest_0: -8943634123154179089
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

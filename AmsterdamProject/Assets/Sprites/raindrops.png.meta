@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 14235c08dda182d409635ada3b211e9b
+guid: 62d4a458d9a96ee44ac77877ed0a8621
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8943634123154179089
-    second: AmsterDAmQuest_0
+      213: -1424099077791734811
+    second: raindrops_0
+  - first:
+      213: -8262599930202212766
+    second: raindrops_1
+  - first:
+      213: 1183786305493757460
+    second: raindrops_2
+  - first:
+      213: -944695855797614559
+    second: raindrops_3
+  - first:
+      213: 98586421353129530
+    second: raindrops_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AmsterDAmQuest_0
+      name: raindrops_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 86
+        y: 354
+        width: 79
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: feb35508624d1e380800000000000000
-      internalID: -8943634123154179089
+      spriteID: 5e323471f659c3ce0800000000000000
+      internalID: -1424099077791734811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raindrops_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 393
+        width: 79
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266312ff329555d80800000000000000
+      internalID: -8262599930202212766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raindrops_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 77
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6de47f57ad6010800000000000000
+      internalID: 1183786305493757460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raindrops_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 124
+        width: 79
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1284666df14c3e2f0800000000000000
+      internalID: -944695855797614559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raindrops_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 78
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a362e60f3df3e5100800000000000000
+      internalID: 98586421353129530
       vertices: []
       indices: 
       edges: []
@@ -125,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AmsterDAmQuest_0: -8943634123154179089
+      raindrops_0: -1424099077791734811
+      raindrops_1: -8262599930202212766
+      raindrops_2: 1183786305493757460
+      raindrops_3: -944695855797614559
+      raindrops_4: 98586421353129530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
