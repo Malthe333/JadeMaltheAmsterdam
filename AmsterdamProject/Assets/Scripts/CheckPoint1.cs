@@ -19,6 +19,12 @@ public class CheckPoint1 : MonoBehaviour
         respawnPoint = transform.position;
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+            Respawn();
+    }
+
     public void Respawn()
     {
         rb.linearVelocity = Vector2.zero;

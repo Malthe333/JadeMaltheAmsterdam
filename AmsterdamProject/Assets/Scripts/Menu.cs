@@ -15,7 +15,12 @@ public class Menu : MonoBehaviour
 
     public GameObject SettingsMenu;
 
-    public GameObject button;
+    public GameObject Map;
+
+
+    public GameObject Player;
+    public GameObject Startbutton;
+    public GameObject HowtoControlButton;
     public float fadeTime = 2f;
 
     // Update is called once per frame
@@ -49,6 +54,10 @@ public class Menu : MonoBehaviour
 
         MainMenu.SetActive(false);
         SettingsMenu.SetActive(true);
+        Map.SetActive(true);
+        HowtoControlButton.SetActive(false);
+        Player.SetActive(true);
+        
     }
 
 
@@ -57,6 +66,8 @@ public class Menu : MonoBehaviour
 
         MainMenu.SetActive(true);
         SettingsMenu.SetActive(false);
-        button.SetActive(true);
+        Startbutton.SetActive(true);
+        Map.SetActive(false);
+        Player.SetActive(false);
     }
 }

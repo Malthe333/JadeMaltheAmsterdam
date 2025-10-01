@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: e7a4f130225169147ac403d687e07252
+guid: 19c85dca4351ac244924fbae36d692ee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7630924897897607279
-    second: sunnysky_0
+      213: 1549949440653480054
+    second: NicePng_arrow-mark-png_334293_0
+  - first:
+      213: 758764856915854735
+    second: NicePng_arrow-mark-png_334293_1
+  - first:
+      213: -868116696130222428
+    second: NicePng_arrow-mark-png_334293_2
+  - first:
+      213: -3671211334622120951
+    second: NicePng_arrow-mark-png_334293_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sunnysky_0
+      name: NicePng_arrow-mark-png_334293_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 612
-        height: 321
+        x: 273
+        y: 260
+        width: 244
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19f01295c32891690800000000000000
-      internalID: -7630924897897607279
+      spriteID: 67057f5edc6828510800000000000000
+      internalID: 1549949440653480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_arrow-mark-png_334293_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8505840e9ca78a00800000000000000
+      internalID: 758764856915854735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_arrow-mark-png_334293_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 244
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6829fd674d3f3f0800000000000000
+      internalID: -868116696130222428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_arrow-mark-png_334293_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 243
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f578fdbc3d0dc0800000000000000
+      internalID: -3671211334622120951
       vertices: []
       indices: 
       edges: []
@@ -147,8 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      sunnysky_0: -7630924897897607279
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
