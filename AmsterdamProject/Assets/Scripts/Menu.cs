@@ -10,6 +10,12 @@ public class Menu : MonoBehaviour
     public Image image;
 
     public GameObject imageblack;
+
+    public GameObject MainMenu;
+
+    public GameObject SettingsMenu;
+
+    public GameObject button;
     public float fadeTime = 2f;
 
     // Update is called once per frame
@@ -23,7 +29,7 @@ public class Menu : MonoBehaviour
 
         // Assign the new color back
         image.color = c;
-        
+
         if (c.a <= 0.2f)
         {
             // Just set the color to clear and disable this script
@@ -31,9 +37,26 @@ public class Menu : MonoBehaviour
         }
     }
 
+
     public void PlayGame()
     {
         SceneManager.LoadScene("Game");
-        
+
+    }
+
+    public void StartSettingMenu()
+    {
+
+        MainMenu.SetActive(false);
+        SettingsMenu.SetActive(true);
+    }
+
+
+    public void BackToMainMenu()
+    {
+
+        MainMenu.SetActive(true);
+        SettingsMenu.SetActive(false);
+        button.SetActive(true);
     }
 }

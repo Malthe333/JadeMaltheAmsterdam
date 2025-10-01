@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stroopwafel_0: 2077387030333535425
+      stroopwafel_1: 1633436422466992787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
