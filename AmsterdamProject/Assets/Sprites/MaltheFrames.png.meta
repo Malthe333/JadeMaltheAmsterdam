@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MaltheFrames_0: 1581803535803249650
+      MaltheFrames_1: 2841354818065674063
+      MaltheFrames_2: 4481542229056127804
+      MaltheFrames_3: 7889125094728421345
+      MaltheFrames_4: 5296715057738428424
+      MaltheFrames_5: -2694813048526354778
+      MaltheFrames_6: 1248629448098804614
+      MaltheFrames_7: 6814819447097134908
+      MaltheFrames_8: -3030680402979311897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
